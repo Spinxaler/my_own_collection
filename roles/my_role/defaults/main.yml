@@ -1,0 +1,3 @@
+---
+test_path: "/tmp/test_my_role.txt"
+test_content: "Test module to my role"
